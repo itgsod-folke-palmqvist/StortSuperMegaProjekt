@@ -1,0 +1,5 @@
+C:\Users\daniel.vass\Documents\Visual Studio 2012\Projects\DatabasOOP\StortSuperMegaProjekt\StortSuperMegaProjekt\bin\StortSuperMegaProjekt.dll
+C:\Users\daniel.vass\Documents\Visual Studio 2012\Projects\DatabasOOP\StortSuperMegaProjekt\StortSuperMegaProjekt\bin\StortSuperMegaProjekt.pdb
+C:\Users\daniel.vass\Documents\Visual Studio 2012\Projects\DatabasOOP\StortSuperMegaProjekt\StortSuperMegaProjekt\obj\Debug\StortSuperMegaProjekt.csprojResolveAssemblyReference.cache
+C:\Users\daniel.vass\Documents\Visual Studio 2012\Projects\DatabasOOP\StortSuperMegaProjekt\StortSuperMegaProjekt\obj\Debug\StortSuperMegaProjekt.dll
+C:\Users\daniel.vass\Documents\Visual Studio 2012\Projects\DatabasOOP\StortSuperMegaProjekt\StortSuperMegaProjekt\obj\Debug\StortSuperMegaProjekt.pdb
